@@ -1,0 +1,51 @@
+@charset "utf-8";
+body h1 {
+    color: rgba(231,18,22,1.00);
+}
+body h1 {
+    color: rgba(61,96,176,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+body h2 {
+    color: rgba(51,136,129,1.00);
+}
+link1 {
+    color: rgba(203,152,81,1.00);
+}
+body p a {
+}
+link1 {
+    color: rgba(190,134,63,1.00);
+}
+
+
+
+h2 {
+    color: rgba(61,96,176,1.00);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+fishp {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #B72023;
+}
+body p {
+    color: #161515;
+}
+body p {
+    color: #0E0D0D;
+}
+body p2 {
+    color: #DD2C2E;
+}
+
+fish {
+    color: #91EF76;
+}
+body p {
+    color: #000000;
+    font-size: large;
+}
+.fish {
+    color: #D34281;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
